@@ -8,7 +8,7 @@ Treść artykułu, wraz z odpowiednim promptem, jest przesyłana do API OpenAI w
 OpenAI zwraca kod HTML, który zawiera:
 
 Odpowiednią strukturę HTML (nagłówki, akapity, listy itp.).
-Miejsca na grafiki oznaczone tagami "<img src="image_placeholder.jpg" alt="prompt do grafiki">".
+Miejsca na grafiki oznaczone tagami &lt;img src="image_placeholder.jpg" alt="prompt do grafiki"&gt;.
 Podpisy pod grafikami.
 Zapis do pliku: Wygenerowany kod HTML jest zapisywany w pliku artykul.html.
 
